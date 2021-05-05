@@ -12,4 +12,5 @@ Client-server architecture, architecture of a computer network in which many cli
 Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server.
 
 ## Output screenshot
-![alt text](file:///home/soumya/Pictures/Screenshot%20from%202021-05-04%2016-35-37.png)
+![Screenshot from 2021-05-04 16-35-37](https://user-images.githubusercontent.com/65180814/117141712-7c94eb00-adcc-11eb-987a-214fa62f3472.png)
+
