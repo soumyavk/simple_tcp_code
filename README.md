@@ -10,3 +10,6 @@ Client-server architecture, architecture of a computer network in which many cli
 
 ## What is Socket Programming ?
 Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server.
+
+## Output screenshot
+![alt text](file:///home/soumya/Pictures/Screenshot%20from%202021-05-04%2016-35-37.png)
